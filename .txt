@@ -1,0 +1,7 @@
+harpalsinghrajput007_db_user
+38A4cPDdzcRvO9jB
+mongodb+srv://harpalsinghrajput007_db_user:38A4cPDdzcRvO9jB@herbstrace.xgx5swy.mongodb.net/?retryWrites=true&w=majority&appName=HerbsTrace
+
+
+instead of using random names in messenger use name user logged in with 
+example: harpal rajput is logged in as farmer and atharva gaikwad is logged in as manufacturer so chatting should be between harpal rajput and atharva gaikwad
